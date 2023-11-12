@@ -1,0 +1,153 @@
+body,
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+p1 {
+    margin: 0;
+    padding: 0;
+   
+   
+}
+
+p1.cl{
+    text-align: center;
+    border: 2px solid red;
+    background-color:powderblue;
+    border-radius: 5px;
+    font-size: 125%;
+    
+    display: inline-block;
+
+}
+
+p1.c2{
+    text-align: center;
+  
+
+}
+
+p1.hw{
+    
+    font-family:courier;
+    font-size: 90%;
+    color:rgba(8, 0, 248, 0.922);
+    display: inline-block;
+
+}
+
+h2 {
+    color: Tomato;
+    border: 2px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+
+
+
+
+h6{
+
+    text-align: center;
+margin:1px;
+display: inline-block;
+padding: 10px;
+
+
+}
+
+
+
+
+
+
+body {
+    background-color:rgb(226, 230, 176);
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1083533/header.jpg);
+    
+    color:black;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: #444;
+    padding: 20px;
+}
+
+nav li {
+    margin: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+
+strong {
+    
+    width: 1000px;
+  }
+  
+  img {
+    width: 15px;
+  }
+
+
+
+  img2 {
+    height: 100px;
+    width: 100px;
+  }
+
+  a{
+
+color:deeppink;
+
+
+  }
+
+
+  #flex-container {
+    border: 2px solid black;
+    display: flex;
+    width: 30%;
+   
+  }
+  
+  .flex-item {
+    
+    background-color: purple;
+    
+    width: 30px;
+    height: 30px;
+  }
+  
+
+  
